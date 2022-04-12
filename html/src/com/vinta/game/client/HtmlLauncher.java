@@ -1,9 +1,9 @@
-package com.vinta.game.client;
+package com.fruitmonster.game.client;
 
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
-import com.vinta.game.FruitMonster;
+import com.fruitmonster.game.FruitMonster;
 
 public class HtmlLauncher extends GwtApplication {
 

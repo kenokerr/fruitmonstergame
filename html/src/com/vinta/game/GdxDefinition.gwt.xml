@@ -4,7 +4,7 @@
 	<inherits name='com.badlogic.gdx.backends.gdx_backends_gwt' />
 
 	<inherits name='FruitMonster' />
-	<entry-point class='com.vinta.game.client.HtmlLauncher' />
+	<entry-point class='com.fruitmonster.game.client.HtmlLauncher' />
 	<set-configuration-property name='xsiframe.failIfScriptTag' value='FALSE'/>
 	<set-configuration-property name="gdx.assetpath" value="../android/assets" />
 </module>
